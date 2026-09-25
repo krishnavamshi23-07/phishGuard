@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard",
+  "description": "Production-ready anti-phishing platform featuring layered detection: rule-based heuristics, reputation blocklists, ML URL classification, and email threat analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
