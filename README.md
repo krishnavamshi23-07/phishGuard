@@ -25,27 +25,6 @@ PhishGuard employs a **multi-layered defense system** that combines several inde
 
 ---
 
-## Quick Start
-
-### Installation
-
-Clone the repository and install dependencies:
-
-```bash
-npm install
-```
-
-### Running the Application
-
-Launch the development server:
-
-```bash
-npm run dev
-```
-
-Once running, navigate to `http://localhost:3000` in your web browser.
-
----
 
 ## Architecture Overview
 
